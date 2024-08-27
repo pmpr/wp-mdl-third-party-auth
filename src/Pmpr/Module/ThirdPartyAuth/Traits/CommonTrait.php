@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             66cb5f23967e5             |
+    |             66ce11de8df45             |
     |_______________________________________|
 */
- namespace Pmpr\Module\ThirdPartyAuth\Traits; trait CommonTrait { public function ggmimqeymoegueqg(string $iwigiqwyskocowwo) : string { $ieokeoyugcmwuumq = trailingslashit($this->uwkmaywceaaaigwo()->giiecckwoyiawoyy()->ieokeoyugcmwuumq()); if ($this->caokeucsksukesyo()->eiwcuqigayigimak()->ewswusimyeosaogm()) { goto yqykqysmiquwoasu; } $iewmcsieaqyamggu = $this->uwkmaywceaaaigwo()->owicscwgeuqcqaig()->yqymaqmqiqmmmsoo([self::cuwqkowuwgeysoqm => $iwigiqwyskocowwo], $ieokeoyugcmwuumq); goto ayyweymyuuiauamo; yqykqysmiquwoasu: $iewmcsieaqyamggu = trailingslashit($ieokeoyugcmwuumq . self::cuwqkowuwgeysoqm) . $iwigiqwyskocowwo; ayyweymyuuiauamo: return $iewmcsieaqyamggu; } }
+ namespace Pmpr\Module\ThirdPartyAuth\Traits; use Pmpr\Module\ThirdPartyAuth\Provider\Provider; trait CommonTrait { public function ggmimqeymoegueqg(string $iwigiqwyskocowwo) : string { $ieokeoyugcmwuumq = trailingslashit($this->uwkmaywceaaaigwo()->giiecckwoyiawoyy()->ieokeoyugcmwuumq()); if ($this->caokeucsksukesyo()->eiwcuqigayigimak()->ewswusimyeosaogm()) { goto mosqsmqimqgqoase; } $iewmcsieaqyamggu = $this->uwkmaywceaaaigwo()->owicscwgeuqcqaig()->yqymaqmqiqmmmsoo([Provider::cuwqkowuwgeysoqm => $iwigiqwyskocowwo], $ieokeoyugcmwuumq); goto omugkkesagcyagmk; mosqsmqimqgqoase: $iewmcsieaqyamggu = trailingslashit($ieokeoyugcmwuumq . Provider::cuwqkowuwgeysoqm) . $iwigiqwyskocowwo; omugkkesagcyagmk: return $iewmcsieaqyamggu; } }

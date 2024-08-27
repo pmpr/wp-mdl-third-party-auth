@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             66cb5f23967e5             |
+    |             66ce11de8df45             |
     |_______________________________________|
 */
- namespace Pmpr\Module\ThirdPartyAuth\Model; use Pmpr\Common\Foundation\ORM\DB\Model; use Pmpr\Module\ThirdPartyAuth\Interfaces\CommonInterface; abstract class Common extends Model implements CommonInterface { public function ckgmycmaukqgkosk() { parent::ckgmycmaukqgkosk(); $wksoawcgagcgoask = $this->akuociswqmoigkas(); $this->oyeskqayoscwciem()->okgmqaeuaeymaocm($wksoawcgagcgoask); } }
+ namespace Pmpr\Module\ThirdPartyAuth\Model; use Pmpr\Common\Foundation\ORM\DB\Model; abstract class Common extends Model { public function ckgmycmaukqgkosk() { parent::ckgmycmaukqgkosk(); $this->oyeskqayoscwciem()->okgmqaeuaeymaocm($this->akuociswqmoigkas()); } }
