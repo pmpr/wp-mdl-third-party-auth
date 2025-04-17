@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             677fc5bc6b2a1             |
+    |             680106a435142             |
     |_______________________________________|
 */
  use Pmpr\Module\ThirdPartyAuth\ThirdPartyAuth; ThirdPartyAuth::symcgieuakksimmu();
